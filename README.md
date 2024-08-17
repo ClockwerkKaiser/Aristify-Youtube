@@ -1,14 +1,13 @@
 <div align = center>
 
-# MrBeastify
+# Aristify (Based on MrBeastify)
 
 Is your browser experience boring? Are you having  
 trouble finding engaging click-baity videos?
 
 **Fear no more.**
 
-This extension adds the famous  
-youtuber **MrBeast** to every thumbnail.
+This extension adds LavishTavish and Timric of The Aristocrafts to every thumbnail.
 
 [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
